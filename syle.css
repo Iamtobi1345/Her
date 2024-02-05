@@ -1,0 +1,16 @@
+#email{width:400px;
+height:20px;
+opacity:.5;}
+#password{width:400px;
+height:20px;
+opacity:.5;}
+
+.container{opacity:0.5;
+background-color:#ff0000;
+}
+body{background-size:cover;}
+
+label{opacity:1;}
+
+.button{opacity:100%}
+
